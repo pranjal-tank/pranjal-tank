@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align='right' width="450">
+<img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align='right' width="450">&nbsp;&nbsp;
 <br/>
   
 ### 🧐 More About Me:
@@ -20,7 +20,7 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranjal-tank/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hhxFxnpAMUTEBKMPA9mukDFyBXUze7Hc/view?usp=sharing)
 
-<br>
+<br/>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -32,9 +32,9 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" align="left" alt="git" height='42px'/>
 
 
-<br>
+<br/>
 
-<br>
+<br/>
 
 ### 🛠️ My Projects
 - <a href="https://github.com/pranjal-tank/online_judge_project.git" target="_blank">online-judge-project</a>

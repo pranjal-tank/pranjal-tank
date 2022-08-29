@@ -29,7 +29,7 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="left" alt="git" height='42px'/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="left" alt="git" height='42px'/>
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" align="left" alt="git" height='42px'/>
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" align="left" alt="git" height='42px'/><br>
 
 
 <br/>

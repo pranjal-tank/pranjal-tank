@@ -10,6 +10,7 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 <br/>
 
 <img src="https://media.giphy.com/media/l2JhDNcWIfICZVWlW/giphy.gif" align='right' width="450">
+<br/>
   
 ### 🧐 More About Me:
 
@@ -32,8 +33,6 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 
 
 <br>
-
-</a>
 
 <br>
 

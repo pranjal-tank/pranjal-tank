@@ -13,12 +13,7 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 <br/>
   
 ### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **task-management-tool**
-- 🌱 &nbsp; I’m currently learning MERN stack;
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranjal-tank/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hhxFxnpAMUTEBKMPA9mukDFyBXUze7Hc/view?usp=sharing)
 
 <br/>
 

@@ -15,12 +15,10 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 <img src="https://github.com/user-attachments/assets/b53b4096-83a2-4ec0-b8a8-93c1a4dead49" align="left" alt="Frappe" height="42px"/>
 <br clear="left"/>
 
-<br/>
 ### 🛠️ My Projects
 
 - <a href="https://github.com/pranjal-tank/online_judge_project.git" target="_blank">online-judge-project</a>
 - <a href="https://github.com/pranjal-tank/polls-application.git" target="_blank">polls-application</a>
-<br/>
 
 ### 🤝 Contribution
 - <a href="https://github.com/frappe/insights/pull/260" target="_blank">https://github.com/frappe/insights/pull/260</a>

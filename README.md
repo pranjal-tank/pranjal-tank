@@ -17,6 +17,7 @@ I am a versatilist and easily adapt to different hats. love exploring new tech s
 
 <br/>
 ### 🛠️ My Projects
+
 - <a href="https://github.com/pranjal-tank/online_judge_project.git" target="_blank">online-judge-project</a>
 - <a href="https://github.com/pranjal-tank/polls-application.git" target="_blank">polls-application</a>
 <br/>
